@@ -1,0 +1,8 @@
+com\briup\apps\app02\web\controller\UserController.class
+com\briup\apps\app02\bean\studentCourse.class
+com\briup\apps\app02\service\IUserService.class
+com\briup\apps\app02\bean\Course.class
+com\briup\apps\app02\config\MybatisConfig.class
+com\briup\apps\app02\bean\User.class
+com\briup\apps\app02\service\impl\UserServiceImpl.class
+com\briup\apps\app02\dao\UserMapper.class
